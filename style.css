@@ -1,6 +1,6 @@
 .tabuleiro {
-	width: 100px;
-	height: 100px;
+	width: 600px;
+	height: 600px;
 	border: 1px solid #000080;
 	display: flex;
 	flex-wrap: wrap;
@@ -11,8 +11,8 @@
 }
 
 .celula {
-	width: 100px;
-	height: 100px;
+	width: 200px;
+	height: 200px;
 	border: 1px solid #00ff00;
 	display: flex;
 	justify-content: center;
